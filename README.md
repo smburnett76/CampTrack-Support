@@ -1,30 +1,26 @@
-# Camp Track — Support
+# Day Camp Tracker — Support
 
-Support and legal information for **Camp Track** on iPhone.
+Public support site and privacy policy for the **Day Camp Tracker** iOS app ([DayCampTracker](https://github.com/smburnett76/DayCampTracker)).
 
-Camp Track helps parents manage summer camp schedules—kids, camps, calendar, conflicts, and local reminders—all stored on your device.
+## GitHub Pages
 
----
+- **Site:** https://smburnett76.github.io/DayCampTracker-Support/
+- **Privacy policy (App Store Connect):** https://smburnett76.github.io/DayCampTracker-Support/privacy-policy
+
+Enable Pages: repo **Settings → Pages →** source **Deploy from branch** → **main** → **/ (root)**.
 
 ## Contact
 
-**Support email:** [camptrack.support@gmail.com](mailto:camptrack.support@gmail.com)
+**camptrack.support@gmail.com**
 
-For bug reports, questions, or privacy concerns, use the email above. We typically respond within a few business days.
+## Files
 
----
+| File | Purpose |
+|------|---------|
+| `index.md` | Support home page |
+| `privacy-policy.md` | Privacy policy (linked from App Store Connect) |
+| `_config.yml` | Jekyll / Pages config (`baseurl` must match repo name) |
 
-## Privacy Policy
+## Sync with the app repo
 
-**[Read the Camp Track Privacy Policy](privacy-policy)**
-
----
-
-## About the app
-
-- **Platform:** iOS  
-- **Data:** Your family’s schedule stays on your iPhone; we do not operate servers that store your camp data.
-
----
-
-Copyright © 2026 Shannon Burnett. All rights reserved.
+When you change privacy text in **DayCampTracker** `docs/privacy-policy.md`, copy sections **1–10** into this repo’s `privacy-policy.md` (keep the YAML front matter here; omit developer-only notes from the app repo).

@@ -1,10 +1,10 @@
 ---
-title: Camp Track — Support
+title: Day Camp Tracker — Support
 ---
 
-Support and legal information for **Camp Track** on iPhone.
+Support and legal information for **Day Camp Tracker** on iPhone.
 
-Camp Track helps parents manage summer camp schedules—kids, camps, calendar, conflicts, and local reminders—all stored on your device.
+Day Camp Tracker helps parents manage summer camp schedules—kids, camps, calendar, conflicts, and local reminders—all stored on your device.
 
 ---
 
@@ -18,13 +18,13 @@ For bug reports, questions, or privacy concerns, use the email above. We typical
 
 ## Privacy Policy
 
-**[Read the Camp Track Privacy Policy](privacy-policy)**
+**[Read the Day Camp Tracker Privacy Policy](privacy-policy)**
 
 ---
 
 ## About the app
 
-- **Platform:** iOS  
+- **Platform:** iOS
 - **Data:** Your family’s schedule stays on your iPhone; we do not operate servers that store your camp data.
 
 ---
