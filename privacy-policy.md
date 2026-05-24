@@ -107,4 +107,4 @@ If you have questions about this Privacy Policy or Camp Track’s privacy practi
 **Email:** [camptrack.support@gmail.com](mailto:camptrack.support@gmail.com)
 
 **App name:** Camp Track  
-**Bundle ID:** com.camptrack.app
+**Bundle ID:** com.shannonapps.camptrack
